@@ -5,8 +5,7 @@ The Brass Thumb Pomodoro is a unique productivity timer inspired by the [Pomodor
 ![Brass Thumb Pomodoro Left View](doc/img/brass-thumb-pomodoro-left.png)
 ![Brass Thumb Pomodoro Right View](doc/img/brass-thumb-pomodoro-right.png)
 
-
-## 3D Print Parts
+## 3D Printing Parts
 
 The Brass Thumb Pomodoro features 3D-printed components to embody its steampunk aesthetic. To achieve the optimal look, print the parts using PLA filament in two colors: matte black and brass. All model files are located in the `./model/stl` directory, and none of the prints require any support structures. Below are the specific files you need to print, along with their respective colors.
 
@@ -41,6 +40,7 @@ The Brass Thumb Pomodoro features 3D-printed components to embody its steampunk 
 4. **Assembly Guidelines**: Once all parts are printed, carefully remove them from the print bed. Use sandpaper or a file to smooth out any rough edges or imperfections, especially on moving parts such as the gears and the slider.
 
 5. **Fit and Finish**: Make sure all parts fit together snugly before final assembly. You may need to test-fit parts and make minor adjustments to ensure a perfect assembly. This is particularly important for moving parts and mechanical connections.
+
 ## Building and Uploading to Arduino Nano
 
 Follow these detailed instructions to build and upload the Brass Thumb Pomodoro project to your Arduino Nano.
@@ -102,3 +102,37 @@ This will open the `brass-thumb-pomodoro.ino` file in the Arduino IDE.
 - **Board Not Detected**: Make sure drivers for the Arduino Nano are correctly installed. Some unofficial Nanos require the installation of additional CH340 drivers.
 
 Congratulations! You have successfully built and uploaded the Brass Thumb Pomodoro project to your Arduino Nano. Enjoy increased productivity with your new steampunk-inspired Pomodoro timer!
+
+## Wiring
+
+To assemble the wiring for the ***Brass Thumb Pomodoro**, follow the diagram provided below. 
+
+![Brass Thumb Pomodoro Wiring](doc/wiring.png)
+
+Here's a detailed step-by-step guide:
+
+1. **Servo Motor Connections**:
+   - Connect the signal pin of the servo motor (usually the yellow or white wire) to pin `D9` on the Arduino Nano.
+   - Use female jumper wires to connect the `VCC` (red wire) and `GND` (black wire) of the servo motor to the respective `5V` and `GND` pins on the Arduino Nano. 
+   - If the servo motor's pins are merged together in a single socket, you may need to modify the connections to fit the Arduino pins that are not adjacent to each other.
+
+2. **Switch Connections**:
+   - Solder female jumper wire to the one side of the switch and connect it to pin `D2` on the Arduino Nano.
+   - Solder female jumper wire to the middle pin of the switch and connect it to the `GND` pin on the Arduino Nano.
+   - Solder female jumper wire to the other side of the switch and connect it to pin `D3` on the Arduino Nano.
+
+Ensure all connections are secure and double-check the wiring against the diagram before powering on the device.
+
+### Additional Wiring Information
+
+1. **Connector Types and Usage**: For this project, using female jumper wires is recommended for connecting components to the Arduino Nano.
+
+2. **Soldering Tips**: When soldering wires to the switch, ensure that your soldering iron is at the right temperature (around 350°C). Tin the wire and the switch terminal before joining them together. Apply heat to the joint and feed solder into the connection. Always work in a well-ventilated area and wear safety goggles.
+
+3. **Power Supply Considerations**: The Arduino Nano and servo motor can be powered via the USB connection. Ensure your USB power source provides at least `500mA` of current. If using an external power source, verify that it meets the voltage and current requirements of your components.
+
+4. **Cable Management**: Choosing the proper length of cables is crucial for both fitting the components inside the case and ensuring ease of assembly. Cables should be long enough to allow for easy connection and movement of components during assembly, but not so long that they create unnecessary bulk or clutter inside the case.
+
+5. **Testing Connections**: Before powering on the device, test the continuity of your connections with a multimeter. Check for any shorts or open circuits. If the device does not function correctly, verify all connections against the wiring diagram and ensure that the Arduino Nano is properly programmed and connected.
+
+By following these detailed steps and tips, you'll ensure a successful and reliable assembly of your Brass Thumb Pomodoro project.
