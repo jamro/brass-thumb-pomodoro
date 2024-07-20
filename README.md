@@ -1,5 +1,8 @@
 # Brass Thumb Pomodoro
 
+![Brass Thumb Pomodoro Project (left side)](doc/img/brass-thumb-pomodoro-left.png)
+![Brass Thumb Pomodoro Project (right side)](doc/img/brass-thumb-pomodoro-right.png)
+
 ## Building and Uploading to Arduino Nano
 
 Follow these detailed instructions to build and upload the Brass Thumb Pomodoro project to your Arduino Nano.
