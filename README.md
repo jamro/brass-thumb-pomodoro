@@ -105,9 +105,7 @@ Congratulations! You have successfully built and uploaded the Brass Thumb Pomodo
 
 ## Wiring
 
-To assemble the wiring for the ***Brass Thumb Pomodoro**, follow the diagram provided below. 
-
-![Brass Thumb Pomodoro Wiring](doc/wiring.png)
+To assemble the wiring for the **Brass Thumb Pomodoro**, follow the diagram provided below. 
 
 Here's a detailed step-by-step guide:
 
@@ -121,7 +119,7 @@ Here's a detailed step-by-step guide:
    - Solder female jumper wire to the middle pin of the switch and connect it to the `GND` pin on the Arduino Nano.
    - Solder female jumper wire to the other side of the switch and connect it to pin `D3` on the Arduino Nano.
 
-Ensure all connections are secure and double-check the wiring against the diagram before powering on the device.
+![Brass Thumb Pomodoro Wiring](doc/wiring.png)
 
 ### Additional Wiring Information
 
