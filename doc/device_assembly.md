@@ -44,7 +44,9 @@ Use the cylinder magnet (D=10mm, h=5mm) as shown below. The orientation of the m
 
 Insert the M2x8 screw through the hole from the bottom side of the rack gear and tighten it until firmly held in place. This will be used later to mount other elements.
 
-![Rack Gear Assembly](img/assembly_rack_gear.png)
+![Rack Gear Assembly](img/assembly_005.png)
+
+![Rack Gear Assembly](img/assembly_006.png)
 
 ## Main Assembly of the Device
 
