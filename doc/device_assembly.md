@@ -118,6 +118,24 @@ Ensure the switch and tag are firmly in place, as shown below.
 
 ### Install Magnetic Handler
 
+Turn the mode switch to the up position (break mode). This moves the pointer to the right and the rack gear to the left, making the pin on the rack gear more accessible.
+
+![Turn Mode Switch](img/assembly_019.png)
+
+**IMPORTANT**: The 3-position switch is symmetric and can be installed upside down. If this happens, reorient the switch, or switch it to the down position. You can swap its positions in the code later if necessary.
+
+Place the `gauge_handle.stl` mounting hole onto the pin of the rack gear.
+
+![Place Gauge Handle](img/assembly_020.png)
+
+Ensure that the magnets installed in both `gauge_handle.stl` and `gauge_popup.stl` are oriented to push away from each other. If not, reorient the `gauge_handle.stl`.
+
+![Ensure Correct Magnet Orientation](img/assembly_021.png)
+
+Orient the `gauge_handle.stl` so its guide slot aligns with the hole in the housing (`gauge_case.stl`).
+
+![Align Gauge Handle](img/assembly_022.png)
+
 ### Install Thumb Up Popup
 
 ### Install Top Cover
