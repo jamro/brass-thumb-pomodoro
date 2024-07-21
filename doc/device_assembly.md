@@ -138,6 +138,56 @@ Orient the `gauge_handle.stl` so its guide slot aligns with the hole in the hous
 
 ### Install Thumb Up Popup
 
+Slide the `gauge_tower.stl` into the dedicated slots of the `gauge_case.stl`.
+
+![Slide Gauge Tower](img/assembly_023.png)
+
+Secure the `gauge_tower.stl` with an M2x16 screw, ensuring the screw passes through the guide slot of the `gauge_handle.stl`.
+
+![Secure Gauge Tower](img/assembly_024.png)
+
+Slide the `gauge_popup.stl` into the `gauge_tower.stl`.
+
+![Slide Gauge Popup](img/assembly_025.png)
+
+Ensure the `gauge_popup.stl` is hidden inside the `gauge_tower.stl` and can move freely up and down.
+
+![Gauge Popup Hidden](img/assembly_026.png)
+
 ### Install Top Cover
 
+Slide the `gauge_gear_large.stl` into the slot of the `gauge_case.stl`. This step will not secure the gear yet; we’ll take care of that in the next steps.
+
+![Slide Gauge Gear Large](img/assembly_027.png)
+
+Place the previously assembled top cover onto the housing (`gauge_case.stl`), ensuring it secures the `gauge_gear_large.stl` and aligns with `gauge_tower.stl`.
+
+![Place Top Cover](img/assembly_028.png)
+
+Secure the top cover with an M2x16 screw to hold everything firmly in place.
+
+![Secure Top Cover](img/assembly_029.png)
+
+Slide the `gauge_tower_top.stl` into the `gauge_tower.stl`, ensuring a snug fit. Secure it with an M2x16 screw.
+
+![Slide Gauge Tower Top](img/assembly_030.png)
+
+Secure the scale with an M2x8 screw.
+
+![Secure Scale](img/assembly_031.png)
+
 ### Install Scale Decors
+
+Mount the `gauge_scale_ticks.stl` onto the casing (`gauge_case.stl`) by securing it with five M2x8 screws. Note that the last, most right screw hole should be left empty for now.
+
+![Mount gauge_scale_ticks.stl](img/assembly_032.png)
+
+Once the `gauge_scale_ticks.stl` is in place, use an M2x16 screw to securely mount the scale into the housing (`gauge_case.stl`).
+
+![Mount Scale with M2x16 Screw](img/assembly_033.png)
+
+Finally, mount the `gauge_scale_front.stl` onto the device using two M2x8 screws.
+
+![Mount gauge_scale_front.stl](img/assembly_034.png)
+
+This completes the installation of the scale decors for your Brass Thumb Pomodoro. Ensure all screws are securely fastened for stable and accurate operation of the device.
