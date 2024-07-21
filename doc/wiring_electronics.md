@@ -14,7 +14,7 @@ Here's a detailed step-by-step guide:
    - Solder female jumper wire to the middle pin of the switch and connect it to the `GND` pin on the Arduino Nano.
    - Solder female jumper wire to the other side of the switch and connect it to pin `D3` on the Arduino Nano.
 
-![Brass Thumb Pomodoro Wiring](doc/wiring.png)
+![Brass Thumb Pomodoro Wiring](wiring.png)
 
 ### Additional Wiring Information
 
