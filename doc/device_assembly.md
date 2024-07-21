@@ -36,10 +36,15 @@ Insert the 10mm diameter, 5mm height cylinder magnet into the bay of the thumb-u
 Ensure the magnet fits snugly in the bay. If it’s loose, secure it using adhesive tape on the sides.
 
 ### Magnetic Handle
+Use the cylinder magnet (D=10mm, h=5mm) as shown below. The orientation of the magnet does not matter at this stage. Place the magnet securely in the bay. If it is loose, use adhesive tape on the sides to tighten it.
 
-### Cog Slider
+![Insert Magnet](img/assembly_004.png)
 
 ### Rack Gear
+
+Insert the M2x8 screw through the hole from the bottom side of the rack gear and tighten it until firmly held in place. This will be used later to mount other elements.
+
+![Rack Gear Assembly](img/assembly_rack_gear.png)
 
 ## Main Assembly of the Device
 
@@ -60,6 +65,5 @@ Ensure the magnet fits snugly in the bay. If it’s loose, secure it using adhes
 ### Install Thumb Up Popup
 
 ### Install Top Cover
-
 
 ### Install Scale Decors

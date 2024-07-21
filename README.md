@@ -11,5 +11,5 @@ The Brass Thumb Pomodoro is a unique productivity timer inspired by the [Pomodor
 2. **[3D Printing](doc/3d_printing.md)**
 3. **[Upload Code](doc/upload_code.md)**
 4. **[Wiring Electronics](doc/wiring_electronics.md)**
-5. **[Final Assembly](doc/device_assembly.md)**
+5. **[Device Assembly](doc/device_assembly.md)**
 6. **[User Manual](doc/user_manual.md)**
