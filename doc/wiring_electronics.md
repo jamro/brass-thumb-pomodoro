@@ -1,4 +1,4 @@
-## Wiring Electronics
+# Wiring Electronics
 
 To assemble the wiring for the **Brass Thumb Pomodoro**, follow the diagram provided below. 
 
@@ -16,7 +16,7 @@ Here's a detailed step-by-step guide:
 
 ![Brass Thumb Pomodoro Wiring](wiring.png)
 
-### Additional Wiring Information
+## Additional Wiring Information
 
 1. **Connector Types and Usage**: For this project, using female jumper wires is recommended for connecting components to the Arduino Nano.
 

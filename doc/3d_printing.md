@@ -1,8 +1,8 @@
-## 3D Printing
+# 3D Printing
 
 The Brass Thumb Pomodoro features 3D-printed components to embody its steampunk aesthetic. To achieve the optimal look, print the parts using PLA filament in two colors: matte black and brass. All model files are located in the `./model/stl` directory, and none of the prints require any support structures. Below are the specific files you need to print, along with their respective colors.
 
-### List of Files to Print
+## List of Files to Print
 
 | Preview                                              | STL File                                                                                        | Color        |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
@@ -22,7 +22,7 @@ The Brass Thumb Pomodoro features 3D-printed components to embody its steampunk 
 | ![Gauge Pointer](../model/png/gauge_pointer.png)        | [`gauge_pointer.stl`](../model/stl/gauge_pointer.stl)                                              | Brass        |
 | ![Gauge Tower Top](../model/png/gauge_tower_top.png)    | [`gauge_tower_top.stl`](../model/stl/gauge_tower_top.stl)                                          | Matte Black  |
 
-### Additional Printing Information
+## Additional Printing Information
 
 1. **Print Settings**: Ensure you're using the right settings for PLA on your 3D printer, such as the correct temperature for both the nozzle and bed. The typical settings include a nozzle temperature of 200-210°C and a bed temperature of 50-60°C.
 
