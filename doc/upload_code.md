@@ -57,3 +57,11 @@ This will open the `brass-thumb-pomodoro.ino` file in the Arduino IDE.
 - **Compilation Errors**: Ensure that all necessary files are within the `brass-thumb-pomodoro` folder. Missing files can cause compilation issues.
 - **Port Issues**: Verify that the correct port is selected under `Tools` -> `Port`. You may need to disconnect and reconnect the USB cable or restart the Arduino IDE to resolve port detection issues.
 - **Board Not Detected**: Make sure drivers for the Arduino Nano are correctly installed. Some unofficial Nanos require the installation of additional CH340 drivers.
+- **Mode Switch Orientation**: If the mode switch is installed upside down, the positions of the WORK and BREAK modes will be inverted. To fix this:
+    1. Open the `config.h` file in the `brass-thumb-pomodoro` folder.
+    2. Swap the following values:
+        ```cpp
+        constexpr int WORK_PIN = 2; // was 3
+        constexpr int BREAK_PIN = 3; // was 2
+        ```
+    3. Save the file and re-upload the code to the Arduino Nano.
