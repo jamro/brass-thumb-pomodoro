@@ -16,7 +16,7 @@ constexpr float MIN_POS = 25;
 constexpr float MAX_POS = 178;
 // pin where servo's control pin is connected
 constexpr int SERVO_PIN = 9;
-// pin where work mpdeswitch is connected
+// pin where work mode switch is connected
 constexpr int WORK_PIN = 3;
 // pin where break mode switch is connected
 constexpr int BREAK_PIN = 2;
