@@ -17,26 +17,27 @@
 
 ### Work Mode
 
-![Work mode](img/work_mode.png)
-
 1. Slide the switch up for a 25-minute work period.
 2. The timer counts down from 25 minutes.
 3. The thumbs-up figure pops up when the work period is complete.
 
-### Rest Mode
+![Work mode](img/work_mode.png)
 
-![Rest mode](img/break_mode.png)
+### Rest Mode
 
 1. Slide the switch down for a 5-minute rest period.
 2. The timer counts down from 5 minutes.
 3. Switch back to work mode as needed.
 
-### Pause Mode
+![Rest mode](img/break_mode.png)
 
-![Pause mode](img/idle_mode.png)
+### Pause Mode
 
 1. Slide the switch to the middle to pause the timer in either work or rest mode.
 2. Slide the switch back to resume the timer from where it paused.
+
+![Pause mode](img/idle_mode.png)
+
 
 ## Maintenance
 
