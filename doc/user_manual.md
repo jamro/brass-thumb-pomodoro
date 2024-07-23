@@ -20,6 +20,7 @@
 1. Slide the switch up for a 25-minute work period.
 2. The timer counts down from 25 minutes.
 3. The thumbs-up figure pops up when the work period is complete.
+4. Switch to rest mode when ready.
 
 ![Work mode](img/work_mode.png)
 
