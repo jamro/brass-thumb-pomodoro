@@ -33,7 +33,7 @@
 
 ### Pause Mode
 
-![Pause mode](img/pause_mode.png)
+![Pause mode](img/idle_mode.png)
 
 1. Slide the switch to the middle to pause the timer in either work or rest mode.
 2. Slide the switch back to resume the timer from where it paused.
