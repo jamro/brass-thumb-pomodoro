@@ -20,7 +20,7 @@
 1. Slide the switch up for a 25-minute work period.
 2. The timer counts down from 25 minutes.
 3. The thumbs-up figure pops up when the work period is complete.
-4. Switch to rest mode when ready.
+4. Switch to **Rest mode** when ready.
 
 ![Work mode](img/work_mode.png)
 
@@ -28,7 +28,7 @@
 
 1. Slide the switch down for a 5-minute rest period.
 2. The timer counts down from 5 minutes, during which the pointer will move backward to indicate rest. 
-3. Switch back to work mode as needed.
+3. Switch back to **Work mode** as needed.
 
 ![Rest mode](img/break_mode.png)
 
