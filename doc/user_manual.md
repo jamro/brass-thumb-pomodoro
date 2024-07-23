@@ -26,7 +26,7 @@
 ### Rest Mode
 
 1. Slide the switch down for a 5-minute rest period.
-2. The timer counts down from 5 minutes.
+2. The timer counts down from 5 minutes, during which the pointer will move backward to indicate rest. 
 3. Switch back to work mode as needed.
 
 ![Rest mode](img/break_mode.png)
