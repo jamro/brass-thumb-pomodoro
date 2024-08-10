@@ -4,6 +4,7 @@ The Brass Thumb Pomodoro is a unique productivity timer inspired by the [Pomodor
 
 ![Brass Thumb Pomodoro Left View](doc/img/brass-thumb-pomodoro-left.png)
 ![Brass Thumb Pomodoro Right View](doc/img/brass-thumb-pomodoro-right.png)
+![Work mode](doc/img/work_mode.png)
 
 ## Documentation
 
